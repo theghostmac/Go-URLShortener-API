@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/freeCodeCamp-Samples/GoAPI/server"
-	"github.com/freeCodeCamp-Samples/GoAPI/storage"
 	"github.com/gin-gonic/gin"
+	"github.com/theghostmac/Go-URLShortener-API/server"
+	"github.com/theghostmac/Go-URLShortener-API/storage"
 )
 
 func main() {
